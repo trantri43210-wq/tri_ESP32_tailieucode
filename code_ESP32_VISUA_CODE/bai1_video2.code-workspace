@@ -1,0 +1,56 @@
+{
+	"folders": [
+		{
+			"path": "bai1_video2"
+		},
+		{
+			"name": "deep_sleek",
+			"path": "deep_sleek"
+		},
+		{
+			"name": "deep_sleek_cambien",
+			"path": "deep_sleek_cambien"
+		},
+		{
+			"name": "deep_sleek_nutan",
+			"path": "deep_sleek_nutan"
+		},
+		{
+			"name": "bia1_wifi",
+			"path": "bia1_wifi"
+		},
+		{
+			"name": "bai2_ketnoi_WIFI",
+			"path": "bai2_ketnoi_WIFI"
+		},
+		{
+			"name": "gan_dia_chi",
+			"path": "gan_dia_chi"
+		},
+		{
+			"name": "tu_dong_ket_noi_lai_WIFI",
+			"path": "tu_dong_ket_noi_lai_WIFI"
+		},
+		{
+			"name": "tao_Wep_ON_OFF",
+			"path": "tao_Wep_ON_OFF"
+		},
+		{
+			"name": "de2_dung_MQTT",
+			"path": "de2_dung_MQTT"
+		},
+		{
+			"name": "Websever_OTA",
+			"path": "Websever_OTA"
+		},
+		{
+			"name": "WEB_OTA_UPGRATE",
+			"path": "WEB_OTA_UPGRATE"
+		},
+		{
+			"name": "ban_cap_nhat",
+			"path": "ban_cap_nhat"
+		}
+	],
+	"settings": {}
+}
